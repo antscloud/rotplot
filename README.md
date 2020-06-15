@@ -1,5 +1,5 @@
 # rotplot
-Package to rotate 2D and 3D curves
+Package to rotate 3D surfaces and 3D curves
 
 ## Rot3DSurf
 Fonction that rotate a three-dimensional surface by an user-defined angle, and around an axis. 
