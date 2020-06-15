@@ -68,3 +68,8 @@ Fonction that rotate a two-dimensional surface (like an ellipse in space) by an 
     ax.plot_surface(Cyclide_rot[0], Cyclide_rot[1], Cyclide_rot[2])
     ax.plot(Ellipse_rot[0], Ellipse_rot[1], Ellipse_rot[2])
     plt.show()
+
+Result : 
+<p align="center">
+  <img src="https://github.com/antscloud/rotplot/blob/master/img/rot.png" width=70%  height=auto />
+</p>
