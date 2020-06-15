@@ -71,5 +71,5 @@ Fonction that rotate a two-dimensional surface (like an ellipse in space) by an 
 
 Result : 
 <p align="center">
-  <img src="https://github.com/antscloud/rotplot/blob/master/img/rot.png" width=70%  height=auto />
+  <img src="https://github.com/antscloud/rotplot/blob/master/img/rot.png" width=50%  height=auto />
 </p>
