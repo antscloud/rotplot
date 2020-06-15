@@ -1,6 +1,10 @@
 # rotplot
 Package to rotate 3D surfaces and 3D curves
-
+## Installation 
+    pip install rotplot
+## Import
+    from rotplot import rot_3D,rot_3D_surf
+    
 ## Rot3DSurf
 Fonction that rotate a three-dimensional surface by an user-defined angle, and around an axis. 
     
@@ -23,13 +27,9 @@ Fonction that rotate a two-dimensional surface (like an ellipse in space) by an 
     nR = 2 Rotation around the z axis   
     
 ## Examples
-    import sys
-    sys.path.append(".")
 
-    from rotplot.rotplot import rot_3D, rot_3D_surf
-
+    from rotplot import rot_3D,rot_3D_surf
     from mpl_toolkits.mplot3d import Axes3D 
-
     import numpy as np
     import matplotlib.pyplot as plt
     plt.rcParams['legend.fontsize'] = 10
